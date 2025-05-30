@@ -1,0 +1,45 @@
+Tech Stack – Web Application
+🖥️ Frontend
+React.js – Component-based web UI framework
+
+Tailwind CSS – Utility-first CSS for responsive, clean design
+
+Framer Motion – For smooth animations and transitions
+
+Recharts – For visualizing mood trends and emotional data
+
+Lottie + Heroicons – Animated UI elements for user engagement
+
+🌐 Backend
+Node.js + Express.js – RESTful API server
+
+MongoDB Atlas – Cloud NoSQL database for mood logs and metadata
+
+Mongoose – ODM for schema design and queries
+
+Cloudinary / Firebase Storage – For storing user-uploaded voice/video securely
+
+🧠 AI/ML Services
+Python (FastAPI) – Serving AI models via API
+
+Facial Emotion Detection – OpenCV + TensorFlow
+
+Voice Emotion Analysis – PyTorch + DeepSpeech
+
+Text Sentiment Analysis – Transformers (BERT / RoBERTa via HuggingFace)
+
+Model Orchestration – Dockerized services for modular deployment
+
+🔐 Security
+JWT Authentication – Secure user login/session control
+
+AES Encryption – End-to-end encryption of mood logs
+
+Helmet.js + Rate Limiting – Backend protection from attacks
+
+🚀 Deployment
+Vercel / Netlify – Frontend hosting
+
+Render / Railway / Heroku – For backend + model APIs
+
+Docker + GitHub Actions – For CI/CD and scalable container-based deployment
